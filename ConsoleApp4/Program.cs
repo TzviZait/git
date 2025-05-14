@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("tzvi");
             Console.WriteLine("tzvi");
+            Console.WriteLine("tzvi");
 
         }
     }
